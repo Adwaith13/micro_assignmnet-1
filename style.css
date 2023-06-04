@@ -1,0 +1,161 @@
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+.main{
+    background-color: #FFCD9E;
+    padding-bottom: 4%;
+}
+
+.header{
+    padding-top: 50px;
+    padding-left:7%;
+    width: fit-content;
+}
+
+span1{
+    padding-bottom: 7px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+span2{
+    padding-top: 7px;
+    display: block;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+.paragraph{
+    padding-bottom: 25px;
+
+}
+span3{
+    padding-left: 7%;
+    font-size: medium;
+    font-weight: normal;
+    display: block;
+    padding-bottom: 7px;
+}
+span4{
+    padding-left: 7%;
+    display: block;
+    font-size: medium;
+    font-weight: normal;
+    padding-bottom: 7px;
+}
+span5{
+    padding-left: 7%;
+    font-size: medium;
+    font-weight: normal;
+}
+
+small1{
+    padding-left: 7%;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.input-txt-btn{
+    padding-left: 7%;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+#user-email{
+    padding:10px 25px;
+    border-radius: 5px;
+    margin-right: 8px;
+    border-color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+#btn{
+    text-align: center;
+    padding: 10px 25px;
+    border-radius: 8px;
+    color: #FFFF;
+    background-color: #282828;
+    cursor: pointer;
+    font-weight: medium;
+}
+
+
+img{
+   width: 268px;
+   height: fit-content;
+   height: auto;
+   float: right;
+   padding: 3%;
+   padding-right: 10%;
+}
+
+small2{
+    padding-left: 8.5%;
+    padding-top: 10px;
+    font-size: smaller;
+    color: white;
+    padding-bottom: 30px;
+}
+.footer{
+    background-color: #282828;
+    padding-bottom:3.8%;
+}
+
+.left{
+    padding-top: 3%;
+    padding-left: 7%;
+    display: inline-block;
+}
+
+
+#left-list{
+    padding: 5px 3px;
+    list-style-type: none;
+    color: white;
+    display: flex;
+}
+
+.right{
+    float: right;
+    padding-top: 3%;
+    padding-right: 12%;
+    display: flex;
+}
+#right-list{
+    list-style-type: none;
+    color: white;
+    padding-bottom: 10px;
+    text-align: right;
+}
+
+
+.logo{
+    padding-right: 5px;
+    padding-left: 5px;
+    display: inline;
+}
+#logo1,#logo2{
+    padding-right: 5px;
+    width:25px;
+    padding-bottom: 30px;
+}
+#logo1{
+    padding-right: 1px;
+    padding-left: 2px;
+}
+#logo2{
+    padding-right: 4px;
+
+}
+
+
+
+
+
+
+
+
+
+
